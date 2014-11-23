@@ -13,7 +13,7 @@
 
 ```
 
-git clone https://540co/homebrew-caccurl
+git clone https://github.com/540co/homebrew-caccurl.git
 cd homebrew-caccurl
 brew install caccurl.rb
 exec bash -l
