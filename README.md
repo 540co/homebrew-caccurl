@@ -28,8 +28,8 @@ Make sure that `curl` is in your PATH:
 
 ```
 
-$ which git
-/usr/local/bin/git
+$ which curl
+/usr/local/bin/curl
 
 ```
 
