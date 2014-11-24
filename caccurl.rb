@@ -2,9 +2,9 @@ require 'formula'
 
 class Caccurl < Formula
   homepage 'http://curl.haxx.se/'
-  url 'http://curl.haxx.se/download/curl-7.39.0.tar.gz'
-  mirror 'ftp://ftp.sunet.se/pub/www/utilities/curl/curl-7.39.0.tar.gz'
-  sha256 'a3a7c2b9e7416c728469eb4cb5b61e9161335df4278329e1d9cc3c194e25d795'
+  url 'http://curl.haxx.se/download/curl-7.35.0.tar.gz'
+  mirror 'ftp://ftp.sunet.se/pub/www/utilities/curl/curl-7.35.0.tar.gz'
+  sha256 '917d118fc5d61e9dd1538d6519bd93bbebf2e866882419781c2e0fdb2bc42121'
   
   option 'with-ssh', 'Build with scp and sftp support'
   option 'with-ares', 'Build with C-Ares async DNS support'
