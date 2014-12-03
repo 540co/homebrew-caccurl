@@ -1,6 +1,6 @@
 ##homebrew-caccurl
 
->Uses [Homebrew](http://brew.sh/) to build and install cURL (version  7.39.0) with PKCS11 Engine to allow for use with [DoD Common Access Cards (CAC)](http://www.cac.mil/).  
+>Uses [Homebrew](http://brew.sh/) to build and install cURL (version  7.35.0) with PKCS11 Engine to allow for use with [DoD Common Access Cards (CAC)](http://www.cac.mil/).  
 
 >  It also has various dependencies that will be installed including PKCS11 and [cackey](https://github.com/Conservatory/CACKey), which is included as a brew forumula.
 
